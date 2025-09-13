@@ -371,7 +371,7 @@ try {
                       g &&
                         (0, r.jsx)(f.$n, {
                           variant: "text",
-                          href: "https://t.me/".concat(g),
+                          href: "https://t.me/T3AI_entry/T3_entry".concat(g),
                           rel: "noopener noreferrer",
                           target: "_blank",
                           className: "hover:text-primary-600",
@@ -633,7 +633,7 @@ try {
                     h &&
                       (0, r.jsx)(a.$n, {
                         variant: "text",
-                        href: "https://t.me/".concat(h),
+                        href: "https://t.me/T3AI_entry/T3_entry".concat(h),
                         rel: "noopener noreferrer",
                         target: "_blank",
                         className: "hover:text-primary-600",

@@ -460,7 +460,7 @@ try {
           t =
             l ||
             [
-              "/privacy-policy",
+              "/#",
               "/terms-of-service",
               "/solutions/gaming",
               "/products/ai",
@@ -3131,14 +3131,14 @@ try {
               title: "Trading Scan",
               subtitle:
                 "Read deep dives on industry news, product announcements, and more",
-              link: "https://blog.terminal3.io/",
+              link: "https://app.t3ai.network",
               isOutside: !0,
             },
             {
               icon: i.Jy,
               title: "Join Community",
               subtitle: "View logos, images and T3 AI's brand guidelines",
-              link: "https://t.me",
+              link: "https://t.me/T3AI_entry",
               isOutside: !0,
             },
           ],

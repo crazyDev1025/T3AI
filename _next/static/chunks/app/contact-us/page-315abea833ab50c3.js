@@ -751,7 +751,7 @@ try {
                                         "By submitting this form, you are confirming that you have read and agree to our",
                                         " ",
                                         (0, s.jsx)(d(), {
-                                          href: "/privacy-policy",
+                                          href: "/#",
                                           target: "_blank",
                                           className:
                                             "underline underline-offset-[3px]",

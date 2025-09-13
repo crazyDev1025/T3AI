@@ -772,7 +772,7 @@ try {
                           "View our",
                           " ",
                           (0, s.jsx)(n(), {
-                            href: "/privacy-policy",
+                            href: "/#",
                             target: "_blank",
                             className: "underline underline-offset-[3px]",
                             children: (0, s.jsx)("span", {
