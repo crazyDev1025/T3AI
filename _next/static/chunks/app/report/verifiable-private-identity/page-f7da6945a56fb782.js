@@ -589,7 +589,7 @@ try {
                                     className:
                                       "text-text-xs xl:text-text-sm text-gray-400",
                                     children:
-                                      "I would like to receive product updates and news from Terminal 3. You can unsubscribe any time.",
+                                      "I would like to receive product updates and news from T3 AI. You can unsubscribe any time.",
                                   }),
                                 ],
                               }),

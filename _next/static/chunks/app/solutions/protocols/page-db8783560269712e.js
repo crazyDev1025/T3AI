@@ -301,7 +301,7 @@ try {
                       (0, i.jsx)("h1", {
                         className:
                           "lg:text-display-lg font-black text-gray-25 text-display-xs",
-                        children: "Terminal 3’s protocol solution",
+                        children: "T3 AI’s protocol solution",
                       }),
                       (0, i.jsx)("p", {
                         className:

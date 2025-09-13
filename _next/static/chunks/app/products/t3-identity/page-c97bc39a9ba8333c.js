@@ -369,7 +369,7 @@ try {
             }),
             name: "Oracle",
             heading:
-              "A familiar and simple onboarding experience, secured by Terminal 3",
+              "A familiar and simple onboarding experience, secured by T3 AI",
             text: "Enrich, atomize, and decentrally store user data, issue verifiable credentials, and gain privacy-preserving data access through cryptographic APIs. Manage end-to-end user data flow from collection to access, through our decentralized platform with endless privacy-preserving output applications",
           },
           {
@@ -782,7 +782,7 @@ try {
                           className: "size-[26px] xl:size-[36px]",
                         }),
                         title: "User Communication & Acquisition",
-                        text: "Build connections, target communications, and acquire users through Terminal 3's privacy-preserving CRM and data oracle.",
+                        text: "Build connections, target communications, and acquire users through T3 AI's privacy-preserving CRM and data oracle.",
                         className: "bg-gray-900",
                       }),
                     ],
@@ -837,7 +837,7 @@ try {
                                     className:
                                       "text-text-md md:text-text-lg text-gray-600",
                                     children:
-                                      "Protect user PII through self-sovereign and encrypted decentralized storage. Terminal 3 simplifies user identity onboarding via wallet, email, or social logins, ensuring complete user control, privacy, and security while alleviating enterprise burdens for PII privacy and security compliance.",
+                                      "Protect user PII through self-sovereign and encrypted decentralized storage. T3 AI simplifies user identity onboarding via wallet, email, or social logins, ensuring complete user control, privacy, and security while alleviating enterprise burdens for PII privacy and security compliance.",
                                   }),
                                 ],
                               }),
@@ -863,7 +863,7 @@ try {
                                         className:
                                           "text-text-sm md:text-text-md text-gray-600",
                                         children:
-                                          "Terminal 3's customizable frontend bridges Web2 users into the Web3 ecosystem through seamless onboarding of new and existing users, allowing authentication via wallet, email, or social logins.",
+                                          "T3 AI's customizable frontend bridges Web2 users into the Web3 ecosystem through seamless onboarding of new and existing users, allowing authentication via wallet, email, or social logins.",
                                       }),
                                     }),
                                   ],
@@ -962,7 +962,7 @@ try {
                                     className:
                                       "text-text-md md:text-text-lg text-gray-600",
                                     children:
-                                      "Terminal 3 enhances user profiles with on- and off-chain data, delivering customizable analytics dashboards tailored to unique business requirements",
+                                      "T3 AI enhances user profiles with on- and off-chain data, delivering customizable analytics dashboards tailored to unique business requirements",
                                   }),
                                 ],
                               }),
@@ -988,7 +988,7 @@ try {
                                         className:
                                           "text-text-sm md:text-text-md text-gray-600",
                                         children:
-                                          "Terminal 3 standardizes, enriches, and encrypts user data, utilizing our proprietary schema which is designed to work with universally established user data taxonomies and classifications, enhancing data actionability, interoperability, and relevancy of insights.",
+                                          "T3 AI standardizes, enriches, and encrypts user data, utilizing our proprietary schema which is designed to work with universally established user data taxonomies and classifications, enhancing data actionability, interoperability, and relevancy of insights.",
                                       }),
                                     }),
                                   ],
@@ -1098,14 +1098,14 @@ try {
                                           className:
                                             "text-text-sm md:text-text-md text-gray-600",
                                           children:
-                                            "Terminal 3 allows privacy-preserving customer segmentation and automated and personalized communications via our zero-knowledge platform.",
+                                            "T3 AI allows privacy-preserving customer segmentation and automated and personalized communications via our zero-knowledge platform.",
                                         }),
                                         (0, a.jsxs)(l.$n, {
                                           variant: "link",
-                                          href: "/contact-us",
+                                          href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
                                           size: "sm",
                                           children: [
-                                            "Get started ",
+                                            "Chart",
                                             (0, a.jsx)(n.A, {}),
                                           ],
                                         }),
@@ -1130,14 +1130,14 @@ try {
                                           className:
                                             "text-text-sm md:text-text-md text-gray-600",
                                           children:
-                                            "The interoperability of Terminal 3 identities enables enterprises to acquire new users via targeted campaigns, all without handling private customer data. Users can stake their self-sovereign data for enterprise access, opting-in to marketing and acquisition campaigns.",
+                                            "The interoperability of T3 AI identities enables enterprises to acquire new users via targeted campaigns, all without handling private customer data. Users can stake their self-sovereign data for enterprise access, opting-in to marketing and acquisition campaigns.",
                                         }),
                                         (0, a.jsxs)(l.$n, {
                                           variant: "link",
-                                          href: "/contact-us",
+                                          href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
                                           size: "sm",
                                           children: [
-                                            "Learn more ",
+                                            "Chart",
                                             (0, a.jsx)(n.A, {}),
                                           ],
                                         }),

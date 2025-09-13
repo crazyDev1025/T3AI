@@ -121,8 +121,8 @@ try {
                           className:
                             "mt-4 xl:mt-0 text-gray-900 bg-primary-300",
                           size: "xl",
-                          href: "/contact-us",
-                          children: "Find out more",
+                          href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
+                          children: "Chart",
                         }),
                       ],
                     }),
@@ -1080,10 +1080,10 @@ try {
                                   }),
                                   (0, i.jsxs)(h.$n, {
                                     variant: "link",
-                                    href: "/contact-us",
+                                    href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
                                     size: "sm",
                                     children: [
-                                      "Get Started",
+                                      "Chart",
                                       (0, i.jsx)(r.A, {}),
                                     ],
                                   }),
@@ -1111,10 +1111,10 @@ try {
                                   }),
                                   (0, i.jsxs)(h.$n, {
                                     variant: "link",
-                                    href: "/contact-us",
+                                    href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
                                     size: "sm",
                                     children: [
-                                      "Learn more",
+                                      "Chart",
                                       (0, i.jsx)(r.A, {}),
                                     ],
                                   }),
@@ -1143,10 +1143,10 @@ try {
                                   }),
                                   (0, i.jsxs)(h.$n, {
                                     variant: "link",
-                                    href: "/contact-us",
+                                    href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
                                     size: "sm",
                                     children: [
-                                      "Learn more",
+                                      "Chart",
                                       (0, i.jsx)(r.A, {}),
                                     ],
                                   }),
@@ -1174,10 +1174,10 @@ try {
                                   }),
                                   (0, i.jsxs)(h.$n, {
                                     variant: "link",
-                                    href: "/contact-us",
+                                    href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
                                     size: "sm",
                                     children: [
-                                      "Learn more",
+                                      "Chart",
                                       (0, i.jsx)(r.A, {}),
                                     ],
                                   }),
@@ -1205,7 +1205,7 @@ try {
                                   }),
                                   (0, i.jsxs)(h.$n, {
                                     variant: "link",
-                                    href: "/contact-us",
+                                    href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
                                     size: "sm",
                                     children: [
                                       "Learn more",

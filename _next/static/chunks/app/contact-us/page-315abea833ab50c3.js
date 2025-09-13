@@ -604,7 +604,7 @@ try {
                     (0, s.jsx)("div", {
                       className: "text-display-xs max-w-[560px]",
                       children:
-                        "Tell us more about your project and find out how Terminal 3 can empower a secure future for your business and your users.",
+                        "Tell us more about your project and find out how T3 AI can empower a secure future for your business and your users.",
                     }),
                   ],
                 }),
@@ -658,7 +658,7 @@ try {
                     (0, s.jsx)("div", {
                       className: "text-text-lg text-primary-200",
                       children:
-                        "Tell us more about your project and find out how Terminal 3 can empower a secure future for your business and your users.",
+                        "Tell us more about your project and find out how T3 AI can empower a secure future for your business and your users.",
                     }),
                   ],
                 }),

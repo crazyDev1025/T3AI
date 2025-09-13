@@ -296,9 +296,9 @@ try {
                   }),
                   i &&
                     (0, s.jsx)(h.$n, {
-                      href: "/contact-us",
+                      href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
                       size: "lg",
-                      children: "Contact us",
+                      children: "Buy T3",
                     }),
                   i &&
                     (0, s.jsx)(d.P.div, {
@@ -415,10 +415,10 @@ try {
                         (0, s.jsx)("div", {
                           className: "px-4 py-4 bg-gray-100",
                           children: (0, s.jsx)(h.$n, {
-                            href: "/contact-us",
+                            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
                             size: "lg",
                             className: "w-full",
-                            children: "Contact us",
+                            children: "Buy T3",
                           }),
                         }),
                       ],
@@ -686,10 +686,10 @@ try {
                       "flex gap-4 items-center shrink-0 ms-auto lg:ms-0 xl:ms-auto",
                     children: [
                       (0, s.jsx)(v.$n, {
-                        href: "/contact-us",
+                        href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
                         size: "lg",
                         className: "hidden lg:block",
-                        children: "Contact us",
+                        children: "Buy T3",
                       }),
                       (0, s.jsx)(v.$n, {
                         className: (0, n.A)(
@@ -802,10 +802,10 @@ try {
               children: (0, s.jsx)("div", {
                 className: "px-4 py-6",
                 children: (0, s.jsx)(d.$n, {
-                  href: "/contact-us",
+                  href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
                   size: "lg",
                   className: "w-full",
-                  children: "Contact us",
+                  children: "Buy T3",
                 }),
               }),
             }),
@@ -938,11 +938,11 @@ try {
                         children: (0, s.jsx)("div", {
                           className: "px-4 py-6",
                           children: (0, s.jsx)(d.$n, {
-                            href: "/contact-us",
+                            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
                             size: "lg",
                             className: "w-full",
                             onClick: h,
-                            children: "Contact us",
+                            children: "Buy T3",
                           }),
                         }),
                       }),
@@ -1781,15 +1781,6 @@ try {
                     "text-text-xs md:text-text-sm xl:text-text-md font-bold md:flex-1 md:text-center",
                   children: [
                     "New: Accelerate Open Data Strategies with Verifiable Private Identity.",
-                    " ",
-                    (0, s.jsx)("span", {
-                      className: "font-[400]",
-                      children: (0, s.jsx)(r(), {
-                        href: "/report/verifiable-private-identity",
-                        className: "underline underline-offset-[3px]",
-                        children: "Download the Report",
-                      }),
-                    }),
                   ],
                 }),
                 (0, s.jsx)("div", {
@@ -3131,19 +3122,6 @@ try {
         n = {
           title: " ",
           items: [
-            {
-              icon: s.A,
-              title: "About us",
-              subtitle: "Learn about our story and our mission",
-              link: "/about-us",
-            },
-            {
-              icon: i._d,
-              title: "Careers",
-              subtitle: "Explore current job openings and join our global team",
-              tag: "We're hiring!",
-              link: "/careers",
-            },
           ],
         },
         o = {
@@ -3158,7 +3136,7 @@ try {
             },
             {
               icon: c.A,
-              title: "Insights",
+              title: "Trading Scan",
               subtitle:
                 "Read deep dives on industry news, product announcements, and more",
               link: "https://blog.terminal3.io/",
@@ -3166,9 +3144,9 @@ try {
             },
             {
               icon: i.Jy,
-              title: "Brand Guidelines",
-              subtitle: "View logos, images and Terminal 3's brand guidelines",
-              link: "https://live.standards.site/terminal3",
+              title: "Join Community",
+              subtitle: "View logos, images and T3 AI's brand guidelines",
+              link: "https://t.me",
               isOutside: !0,
             },
           ],
@@ -4657,16 +4635,16 @@ try {
                   }),
                   (0, s.jsx)("p", {
                     className: "text-primary-200 text-text-md lg:text-text-xl",
-                    children: "Get in touch today to see Terminal 3 in action.",
+                    children: "Get in touch today to see T3 AI in action.",
                   }),
                 ],
               }),
               (0, s.jsx)(c.$n, {
-                href: "/contact-us",
+                href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
                 variant: "outline",
                 size: "lg",
                 className: "w-full md:w-fit",
-                children: "Contact us",
+                children: "Chart",
               }),
             ],
           }),

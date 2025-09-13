@@ -148,7 +148,7 @@ try {
                                 className:
                                   "text-text-sm lg:text-text-xl text-gray-200 mb-12 mt-6 lg:mt-0",
                                 children: [
-                                  "Terminal 3 was founded on the belief that every human should own and control their digital data and identity.",
+                                  "T3 AI was founded on the belief that every human should own and control their digital data and identity.",
                                   (0, r.jsx)("br", {}),
                                   (0, r.jsx)("br", {}),
                                   "We want to empower a more equitable digital future, where users and enterprises have equal rights and protections across all platforms. Our technology makes fully private data freely composable, securing the world's most important asset while realizing its full value.",
@@ -215,7 +215,7 @@ try {
           image: "/images/about-us/gary.jpg",
           caption: (0, r.jsxs)(r.Fragment, {
             children: [
-              "Gary Liu is Terminal 3's CEO and is also the Chair of Web3 Harbour, Hong Kong's leading web3 industry association. Gary also serves as a committee member of the Hong Kong Government's Web3 Taskforce, and as a member of the Hong Kong Trade Development Council's ICT Advisory Board.",
+              "Gary Liu is T3 AI's CEO and is also the Chair of Web3 Harbour, Hong Kong's leading web3 industry association. Gary also serves as a committee member of the Hong Kong Government's Web3 Taskforce, and as a member of the Hong Kong Trade Development Council's ICT Advisory Board.",
               (0, r.jsx)("br", {}),
               (0, r.jsx)("br", {}),
               "Gary was formerly CEO of the South China Morning Post, the Founder & CEO of Artifact Labs, CEO of Digg, and has also held leadership positions at Spotify, AOL, and Google.",
@@ -234,7 +234,7 @@ try {
           image: "/images/about-us/malcolm.jpg",
           caption: (0, r.jsxs)(r.Fragment, {
             children: [
-              "Malcolm is Terminal 3’s Chief Product Officer and was formerly the SVP of Product at the South China Morning Post, a Product and Growth leader at Lyft, a Venture Partner and Entrepreneur-in-Residence (EIR) at 500 Global, Co-founder & CTO of Skillshare, and Product Lead at OMGPOP (acq. Zynga).",
+              "Malcolm is T3 AI’s Chief Product Officer and was formerly the SVP of Product at the South China Morning Post, a Product and Growth leader at Lyft, a Venture Partner and Entrepreneur-in-Residence (EIR) at 500 Global, Co-founder & CTO of Skillshare, and Product Lead at OMGPOP (acq. Zynga).",
               (0, r.jsx)("br", {}),
               (0, r.jsx)("br", {}),
               "Malcolm holds a B.S. in Computer Science with a double major in Business Administration and minor in E-commerce from Carnegie Mellon University.",
@@ -250,7 +250,7 @@ try {
           image: "/images/about-us/joey.jpg",
           caption: (0, r.jsxs)(r.Fragment, {
             children: [
-              "Joey Liu is Terminal 3’s Chief Operating Officer and was formerly Head of Strategy at the South China Morning Post, Co-founder and General Manager at Artifact Labs, market launcher at Uber Taipei, and consultant at McKinsey & Company.",
+              "Joey Liu is T3 AI’s Chief Operating Officer and was formerly Head of Strategy at the South China Morning Post, Co-founder and General Manager at Artifact Labs, market launcher at Uber Taipei, and consultant at McKinsey & Company.",
               (0, r.jsx)("br", {}),
               (0, r.jsx)("br", {}),
               "Joey holds a B.A from Cornell University and an M.B.A from Columbia Business School.",

@@ -390,7 +390,7 @@ try {
                                       children: (0, i.jsx)("p", {
                                         className: "text-text-sm text-gray-600",
                                         children:
-                                          "Digital identity claims issued by trusted organizations reduce cross-platform friction and compliance costs. T3 Verify’s Smart Credentials never degrade as they remain connected to Terminal 3’s live data Oracle, and allow verifiers to further query information about anonymous users.",
+                                          "Digital identity claims issued by trusted organizations reduce cross-platform friction and compliance costs. T3 Verify’s Smart Credentials never degrade as they remain connected to T3 AI’s live data Oracle, and allow verifiers to further query information about anonymous users.",
                                       }),
                                     }),
                                   ],
@@ -519,10 +519,10 @@ try {
                                         }),
                                         (0, i.jsxs)(n.$n, {
                                           variant: "link",
-                                          href: "/contact-us",
+                                          href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
                                           size: "sm",
                                           children: [
-                                            "Learn about verification ",
+                                            "Chart",
                                             (0, i.jsx)(r.A, {}),
                                           ],
                                         }),
@@ -550,10 +550,10 @@ try {
                                         }),
                                         (0, i.jsxs)(n.$n, {
                                           variant: "link",
-                                          href: "/contact-us",
+                                          href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
                                           size: "sm",
                                           children: [
-                                            "Learn about verification ",
+                                            "Chart",
                                             (0, i.jsx)(r.A, {}),
                                           ],
                                         }),
@@ -581,10 +581,10 @@ try {
                                         }),
                                         (0, i.jsxs)(n.$n, {
                                           variant: "link",
-                                          href: "/contact-us",
+                                          href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
                                           size: "sm",
                                           children: [
-                                            "Learn about verification ",
+                                            "Chart",
                                             (0, i.jsx)(r.A, {}),
                                           ],
                                         }),
@@ -612,10 +612,10 @@ try {
                                         }),
                                         (0, i.jsxs)(n.$n, {
                                           variant: "link",
-                                          href: "/contact-us",
+                                          href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
                                           size: "sm",
                                           children: [
-                                            "Learn about verification ",
+                                            "Chart",
                                             (0, i.jsx)(r.A, {}),
                                           ],
                                         }),
@@ -690,7 +690,7 @@ try {
                       }),
                       (0, i.jsx)("p", {
                         children:
-                          "Our Smart Verifiable Credentials are connected to live user data via Terminal 3’s Oracle, ensuring that claims remain up-to-date and allowing verifiers to make additional queries about an anonymous user. Zero-knowledge proofs guarantee the accuracy of claims and query returns for institutional trust.",
+                          "Our Smart Verifiable Credentials are connected to live user data via T3 AI’s Oracle, ensuring that claims remain up-to-date and allowing verifiers to make additional queries about an anonymous user. Zero-knowledge proofs guarantee the accuracy of claims and query returns for institutional trust.",
                       }),
                     ],
                   }),
@@ -973,12 +973,12 @@ try {
                     className:
                       "text-primary-200 lg:text-white text-text-sm lg:text-text-xl lg:mb-7",
                     children:
-                      "Serve your customers with a simple and streamlined onboarding experience, secured by Terminal 3. Create an account and verify identity via a desktop or mobile device, without requiring Web3 experience or a digital wallet.",
+                      "Serve your customers with a simple and streamlined onboarding experience, secured by T3 AI. Create an account and verify identity via a desktop or mobile device, without requiring Web3 experience or a digital wallet.",
                   }),
                   (0, i.jsx)(l.$n, {
                     className: "mt-5 lg:mt-0 lg:mx-0",
-                    href: "/contact-us",
-                    children: "Learn more",
+                    href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
+                    children: "Chart",
                   }),
                 ],
               }),
@@ -1097,7 +1097,7 @@ try {
                           children: (0, i.jsx)("h4", {
                             className: "text-left font-bold text-gray-900",
                             children:
-                              "Does Terminal 3 partner with a third-party to conduct KYC?",
+                              "Does T3 AI partner with a third-party to conduct KYC?",
                           }),
                         }),
                         (0, i.jsx)(a.ub, {
@@ -1105,7 +1105,7 @@ try {
                             className:
                               "text-gray-600 text-text-sm lg:text-text-md",
                             children:
-                              "Terminal 3 has partnered with Ondato, a pioneering KYC compliance platform, to create a brand new privacy-preserving KYC product that protects users rights to data privacy while also being compliant with world-wide AML requirements.",
+                              "T3 AI has partnered with Ondato, a pioneering KYC compliance platform, to create a brand new privacy-preserving KYC product that protects users rights to data privacy while also being compliant with world-wide AML requirements.",
                           }),
                         }),
                       ],
@@ -1124,7 +1124,7 @@ try {
                             className:
                               "text-gray-600 text-text-sm lg:text-text-md",
                             children:
-                              "Through the Terminal 3 platform, institutions can segment and target their users through privacy-preserving email, but will never receive any underlying information, like birthdays, ID scans, or email addresses. If needed for compliance, all KYC results and collected data can be confidently handed over to regulators without any personally identifying information ever touching your servers.",
+                              "Through the T3 AI platform, institutions can segment and target their users through privacy-preserving email, but will never receive any underlying information, like birthdays, ID scans, or email addresses. If needed for compliance, all KYC results and collected data can be confidently handed over to regulators without any personally identifying information ever touching your servers.",
                           }),
                         }),
                       ],
@@ -1283,9 +1283,9 @@ try {
                         }),
                         (0, i.jsx)(r.$n, {
                           size: "xl",
-                          href: "/contact-us",
+                          href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
                           className: "z-10",
-                          children: "Get a demo",
+                          children: "Chart",
                         }),
                       ],
                     }),

@@ -109,7 +109,7 @@ try {
           }, [_]),
           (0, E.jsxs)("html", {
             children: [
-              (0, E.jsx)("title", { children: "Terminal 3" }),
+              (0, E.jsx)("title", { children: "T3 AI" }),
               (0, E.jsxs)("body", {
                 children: [
                   (0, E.jsx)("h2", { children: "Something went wrong!" }),

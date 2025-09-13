@@ -87,13 +87,13 @@ try {
                           className:
                             "xl:text-text-lg text-gray-600 text-text-md xl:max-w-[480px]",
                           children:
-                            "Terminal 3's Oracle encrypts, atomizes, and decentrally stores user data, creating a self-sovereign and universal identity record. Our zero-knowledge platform allows applications to accept decentralized identities, query customer data, and issue verifiable credentials, all while maintaining comprehensive user privacy. Securely stored user profiles serve as a single source of truth for publicly anonymous digital identities and credentials, powering a safer and more interoperable internet.",
+                            "T3 3's Oracle encrypts, atomizes, and decentrally stores user data, creating a self-sovereign and universal identity record. Our zero-knowledge platform allows applications to accept decentralized identities, query customer data, and issue verifiable credentials, all while maintaining comprehensive user privacy. Securely stored user profiles serve as a single source of truth for publicly anonymous digital identities and credentials, powering a safer and more interoperable internet.",
                         }),
                         (0, a.jsx)(r.$n, {
                           className: "mt-4 xl:mt-0",
                           size: "xl",
-                          href: "/contact-us",
-                          children: "Get a demo",
+                          href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                          children: "Chart",
                         }),
                       ],
                     }),
@@ -306,8 +306,8 @@ try {
                     className: "hidden lg:block shrink-0",
                     children: (0, a.jsx)(i.$n, {
                       size: "xl",
-                      href: "/contact-us",
-                      children: "Learn more",
+                      href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
+                      children: "Chart",
                     }),
                   }),
                 ],
@@ -438,8 +438,8 @@ try {
                 children: (0, a.jsx)(i.$n, {
                   size: "xl",
                   className: "w-full",
-                  href: "/contact-us",
-                  children: "Learn more",
+                  href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
+                  children: "Chart",
                 }),
               }),
             ],

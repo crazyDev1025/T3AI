@@ -244,7 +244,7 @@ try {
           {
             icon: "/images/homepage/feature-3.svg",
             heading: "Unlock the value of private data",
-            text: "Terminal 3’s zero-knowledge engine unlocks the value of private data for enterprises; manage, analyze, segment, and communicate with your users without handling or revealing their securely stored information.",
+            text: "T3 AI’s zero-knowledge engine unlocks the value of private data for enterprises; manage, analyze, segment, and communicate with your users without handling or revealing their securely stored information.",
           },
         ],
         p = [0, 13, 39, 78],
@@ -501,21 +501,21 @@ try {
           {
             name: "Oracle",
             heading: "The Authoritative Oracle for Decentralized Identity",
-            text: "Terminal 3's Oracle encrypts, atomizes, and decentrally stores user data, creating a self-sovereign and universal identity record.",
+            text: "T3 AI's Oracle encrypts, atomizes, and decentrally stores user data, creating a self-sovereign and universal identity record.",
             href: "/products/oracle",
           },
           {
             name: "T3 Identity",
             heading:
               "Decentralized Identities & Secure Data Storage for Any Business",
-            text: "Terminal 3's full-stack decentralized identity (DID) solution allows organisations to manage, segment, analyze, and communicate with users in a privacy-preserving environment via zero-knowledge cryptography.",
+            text: "T3 AI's full-stack decentralized identity (DID) solution allows organisations to manage, segment, analyze, and communicate with users in a privacy-preserving environment via zero-knowledge cryptography.",
             href: "/products/t3-identity",
             imageClassName: "h-[252px]",
           },
           {
             name: "T3 Verify",
             heading: "Enterprise-grade Credentials & KYC for a New Internet",
-            text: "Terminal 3 offers an enterprise-grade Verifiable Credentials solution that allows users to remain 'anonymous' on-chain while meeting KYC/AML requirements to hold and trade regulated assets.",
+            text: "T3 AI offers an enterprise-grade Verifiable Credentials solution that allows users to remain 'anonymous' on-chain while meeting KYC/AML requirements to hold and trade regulated assets.",
             href: "/products/t3-verify",
             imageClassName: "h-[214px] xl:h-[240px] h-auto p-6 xl:p-0",
           },
@@ -639,7 +639,7 @@ try {
                     (0, s.jsxs)("div", {
                       className: "text-display-sm xl:text-display-lg font-bold",
                       children: [
-                        "Terminal 3's",
+                        "T3 AI's",
                         " ",
                         (0, s.jsx)("span", {
                           className:
@@ -1019,7 +1019,7 @@ try {
                           className: "font-bold",
                           children: "10,000,000",
                         }),
-                        " users have taken charge of their personal data with Terminal 3",
+                        " users have taken charge of their personal data with T3 AI",
                       ],
                     }),
                   ],
@@ -1105,7 +1105,7 @@ try {
                   className:
                     "text-gray-600 text-text-lg lg:text-text-xl max-w-[758px]",
                   children:
-                    "Subscribe to the Terminal 3 newsletter to receive product updates and industry insights in your inbox.",
+                    "Subscribe to the T3 AI newsletter to receive product updates and industry insights in your inbox.",
                 }),
                 (0, s.jsx)("form", {
                   onSubmit: j,
@@ -1155,7 +1155,7 @@ try {
                       " ",
                       (0, s.jsx)("span", {
                         className: "font-bold",
-                        children: "Terminal 3",
+                        children: "T3 AI",
                       }),
                     ],
                   }),
@@ -1286,18 +1286,7 @@ try {
                       className:
                         "text-text-md lg:text-text-xl text-primary-200 lg:w-[768px] mx-auto mb-8 md:mb-12 lg:mb-12 text-center",
                       children:
-                        "Secure your enterprise applications with Verifiable Private Identity, and elevate your business with Terminal 3's user data oracle and smart credentials.",
-                    }),
-                    (0, s.jsx)(i.$n, {
-                      className: "relative mx-auto lg:hidden",
-                      href: "/contact-us",
-                      children: "Get in touch",
-                    }),
-                    (0, s.jsx)(i.$n, {
-                      className: "relative hidden mx-auto lg:block",
-                      size: "lg",
-                      href: "/contact-us",
-                      children: "Get in touch",
+                        "Secure your enterprise applications with Verifiable Private Identity, and elevate your business with T3 AI's user data oracle and smart credentials. CA:0xcomingsoon",
                     }),
                   ],
                 }),
@@ -1486,7 +1475,7 @@ try {
                     className:
                       "font-bold text-display-xs md:text-display-sm lg:text-display-md text-gray-25",
                     children: [
-                      "Terminal 3 is backed by",
+                      "T3 AI is backed by",
                       (0, s.jsx)("br", {}),
                       " ",
                       (0, s.jsx)("span", {
