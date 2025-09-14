@@ -888,15 +888,15 @@ try {
                             "text linear-gradient(to right, #57A7E0, #CDE7F6)",
                           play: !0,
                           perspective: 1e3,
-                          numbers: String(d),
+                          numbers: String(420.69),
                         }),
-                        "M+",
+                        "B",
                       ],
                     }),
                     (0, s.jsx)("div", {
                       className:
                         "text-text-lg lg:text-display-sm text-gray-200 font-bold",
-                      children: "decentralized profiles",
+                      children: "Total Supply",
                     }),
                   ],
                 }),
