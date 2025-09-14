@@ -1102,7 +1102,7 @@ try {
                                         }),
                                         (0, a.jsxs)(l.$n, {
                                           variant: "link",
-                                          href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
+                                          href: "https://www.dextools.io/app/en/ether/pair-explorer/0xf60899b5d7239d0868520d9b6fec14976a37795b",
                                           size: "sm",
                                           children: [
                                             "Chart",
@@ -1134,7 +1134,7 @@ try {
                                         }),
                                         (0, a.jsxs)(l.$n, {
                                           variant: "link",
-                                          href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
+                                          href: "https://www.dextools.io/app/en/ether/pair-explorer/0xf60899b5d7239d0868520d9b6fec14976a37795b",
                                           size: "sm",
                                           children: [
                                             "Chart",

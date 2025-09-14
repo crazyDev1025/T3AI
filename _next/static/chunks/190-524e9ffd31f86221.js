@@ -1286,7 +1286,7 @@ try {
                       className:
                         "text-text-md lg:text-text-xl text-primary-200 lg:w-[768px] mx-auto mb-8 md:mb-12 lg:mb-12 text-center",
                       children:
-                        "Secure your enterprise applications with Verifiable Private Identity, and elevate your business with T3 AI's user data oracle and smart credentials. CA:0xcomingsoon",
+                        "Secure your enterprise applications with Verifiable Private Identity, and elevate your business with T3 AI's user data oracle and smart credentials. CA:0xf60899b5d7239d0868520d9b6fec14976a37795b",
                     }),
                   ],
                 }),

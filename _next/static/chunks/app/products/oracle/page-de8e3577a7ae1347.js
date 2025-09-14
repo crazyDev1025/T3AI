@@ -92,7 +92,7 @@ try {
                         (0, a.jsx)(r.$n, {
                           className: "mt-4 xl:mt-0",
                           size: "xl",
-                          href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                          href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xf60899b5d7239d0868520d9b6fec14976a37795b",
                           children: "Chart",
                         }),
                       ],
@@ -306,7 +306,7 @@ try {
                     className: "hidden lg:block shrink-0",
                     children: (0, a.jsx)(i.$n, {
                       size: "xl",
-                      href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
+                      href: "https://www.dextools.io/app/en/ether/pair-explorer/0xf60899b5d7239d0868520d9b6fec14976a37795b",
                       children: "Chart",
                     }),
                   }),
@@ -438,7 +438,7 @@ try {
                 children: (0, a.jsx)(i.$n, {
                   size: "xl",
                   className: "w-full",
-                  href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
+                  href: "https://www.dextools.io/app/en/ether/pair-explorer/0xf60899b5d7239d0868520d9b6fec14976a37795b",
                   children: "Chart",
                 }),
               }),

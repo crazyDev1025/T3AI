@@ -296,7 +296,7 @@ try {
                   }),
                   i &&
                     (0, s.jsx)(h.$n, {
-                      href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                      href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xf60899b5d7239d0868520d9b6fec14976a37795b",
                       size: "lg",
                       children: "Buy T3",
                     }),
@@ -415,7 +415,7 @@ try {
                         (0, s.jsx)("div", {
                           className: "px-4 py-4 bg-gray-100",
                           children: (0, s.jsx)(h.$n, {
-                            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xf60899b5d7239d0868520d9b6fec14976a37795b",
                             size: "lg",
                             className: "w-full",
                             children: "Buy T3",
@@ -686,7 +686,7 @@ try {
                       "flex gap-4 items-center shrink-0 ms-auto lg:ms-0 xl:ms-auto",
                     children: [
                       (0, s.jsx)(v.$n, {
-                        href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                        href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xf60899b5d7239d0868520d9b6fec14976a37795b",
                         size: "lg",
                         className: "hidden lg:block",
                         children: "Buy T3",
@@ -802,7 +802,7 @@ try {
               children: (0, s.jsx)("div", {
                 className: "px-4 py-6",
                 children: (0, s.jsx)(d.$n, {
-                  href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                  href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xf60899b5d7239d0868520d9b6fec14976a37795b",
                   size: "lg",
                   className: "w-full",
                   children: "Buy T3",
@@ -938,7 +938,7 @@ try {
                         children: (0, s.jsx)("div", {
                           className: "px-4 py-6",
                           children: (0, s.jsx)(d.$n, {
-                            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xf60899b5d7239d0868520d9b6fec14976a37795b",
                             size: "lg",
                             className: "w-full",
                             onClick: h,
@@ -4632,7 +4632,7 @@ try {
                 ],
               }),
               (0, s.jsx)(c.$n, {
-                href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
+                href: "https://www.dextools.io/app/en/ether/pair-explorer/0xf60899b5d7239d0868520d9b6fec14976a37795b",
                 variant: "outline",
                 size: "lg",
                 className: "w-full md:w-fit",
